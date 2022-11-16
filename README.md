@@ -6,8 +6,7 @@ This analysis helps to determine if there is any bias toward favorable reviews f
 
 ##Results
 
-![reviews](https://user-images.githubusercontent.com/105808695/191856994-2e1ba5fe-0dab-4265-ac34-164832344e95.png)
-
+![reviews](https://user-images.githubusercontent.com/105808695/202252348-0765f30a-7849-40d0-b090-d220d297053f.png)
 
 #### Total Reviews
 
