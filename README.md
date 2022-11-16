@@ -4,7 +4,7 @@
 
 This analysis helps to determine if there is any bias toward favorable reviews from Amazon Vine members. These members are given products at no charge, from manufacturers and publishers who pay a fee to Amazon for this service, and then give reviews of said products. The analyzed dataset is coming from the Amazon category “Pet Products.”
 
-##Results
+## Results
 
 ![reviews](https://user-images.githubusercontent.com/105808695/202252348-0765f30a-7849-40d0-b090-d220d297053f.png)
 
